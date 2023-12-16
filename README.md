@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Narendra Joshi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebTkIm189BQgbuCXfy6AA4hv5TMB7ySgNTfHO9Saj_4lQCxfUjlJmtQdsI9ielyHmlzs&usqp=CAU"/>
+<img align="right" alt="coding" src="![Uploading 137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif…]()
+"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkgitdev&label=Profile%20views&color=0e75b6&style=flat" alt="nkgitdev" /> </p>
 
